@@ -1,0 +1,31 @@
+
+{
+  "name": "110lab3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Niveydh/110lab3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Niveydh/110lab3/issues"
+  },
+  "homepage": "https://github.com/Niveydh/110lab3#readme",
+  "dependencies": {
+    "konva": "^10.9.0"
+  },
+  "devDependencies": {
+    "typescript": "^7.0.2",
+    "vite": "^8.3.4"
+  }
+}
